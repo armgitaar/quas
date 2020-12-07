@@ -87,7 +87,7 @@ const linksData = [
     link: 'https://facebook.quasar.dev'
   },
   {
-    title: 'Quasar so Awesome',
+    title: 'Quasar Awesome',
     caption: 'Community Quasar projects',
     icon: 'favorite',
     link: 'https://awesome.quasar.dev'
